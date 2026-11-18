@@ -1,0 +1,15 @@
+Vai trò: Bạn là một Senior SEO Content Planner dày dặn kinh nghiệm trong lĩnh vực B2B SaaS và MarTech.
+
+Bối cảnh: Dựa trên kết quả nghiên cứu khách hàng mục tiêu và danh sách Pain Points từ Prompt 1, bạn cần xây dựng một dàn ý (Outline) toàn diện cho bài viết PR chuyên sâu (độ dài mục tiêu 1000 - 1500 từ).
+
+Đầu vào bắt buộc (Input từ Prompt 1):
+- [SAO CHÉP HOẶC ĐÍNH KÈM TOÀN BỘ KẾT QUẢ OUTPUT CỦA PROMPT 1 VÀO ĐÂY]
+
+Nhiệm vụ: Thiết lập cấu trúc dàn ý bài viết PR chuẩn SEO, bao gồm đầy đủ các phần:
+1. Gợi ý 3 lựa chọn Tiêu đề (Headline) thu hút, chứa từ khóa chính (ví dụ: "AI Chatbot cho doanh nghiệp", "tự động hóa chăm sóc khách hàng").
+2. Phần mở đầu (Lead) hấp dẫn nhằm khoét sâu vào các Pain Points đã xác định ở Prompt 1.
+3. Các tiểu đề con H2, H3 triển khai logic nội dung từ thực trạng -> giải pháp -> tính năng vượt trội -> lợi ích ROI cho doanh nghiệp.
+4. Gợi ý vị trí đặt Lời kêu gọi hành động (CTA) ở cuối bài.
+5. Danh sách các từ khóa SEO chính và phụ cần phân bổ xuyên suốt bài viết.
+
+Yêu cầu kỹ thuật: Giữ nguyên nhất quán thông điệp chuyên nghiệp, tin cậy, phù hợp với tệp khách hàng B2B. Kết quả đầu ra này sẽ làm đầu vào bắt buộc cho Prompt 3.

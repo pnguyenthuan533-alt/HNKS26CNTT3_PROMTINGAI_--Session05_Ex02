@@ -1,0 +1,15 @@
+Vai trò: Bạn là một Copywriter chuyên nghiệp, chuyên viết bài PR chiều sâu (Long-form PR Article) cho các sản phẩm công nghệ B2B.
+
+Bối cảnh: Dựa trên dàn ý chi tiết và hệ thống từ khóa SEO từ Prompt 2, bạn sẽ tiến hành viết toàn bộ bài viết PR hoàn chỉnh (1000 - 1500 từ) giới thiệu giải pháp AI Chatbot cho doanh nghiệp.
+
+Đầu vào bắt buộc (Input từ Prompt 2):
+- [SAO CHÉP HOẶC ĐÍNH KÈM TOÀN BỘ KẾT QUẢ OUTPUT CỦA PROMPT 2 VÀO ĐÂY]
+
+Quy tắc xử lý kỹ thuật và duy trì giọng điệu:
+- Giữ nguyên giọng điệu (Tone of Voice): Chuyên nghiệp, khách quan, đáng tin cậy, mang tính thuyết phục cao đối với cấp quản lý doanh nghiệp.
+- Không được gộp quy trình; tuân thủ chính xác cấu trúc dàn ý H2, H3 đã lập ở bước trước.
+- Bài viết phải bao gồm Tiêu đề thu hút, Đoạn Lead giải quyết pain points, các phần nội dung chi tiết và CTA rõ ràng ở cuối bài.
+
+QUY TẮC XỬ LÝ KHI BỊ ĐỨT GÃY (ĐẠT GIỚI HẠN TOKEN):
+Nếu bài viết bị ngắt quãng giữa chừng do chạm ngưỡng giới hạn token của AI, TUYỆT ĐỐI KHÔNG tự động viết lại từ đầu hoặc tóm tắt. Bạn hãy dừng lại chính xác tại vị trí bị ngắt, sau đó trong lượt phản hồi tiếp theo, tôi sẽ sử dụng câu lệnh điều khiển sau để ra lệnh cho bạn:
+=> Câu lệnh điều khiển tiếp tục: "Hãy tiếp tục viết từ câu cuối cùng đã dừng lại: '[Chép lại 3-5 từ cuối cùng của đoạn trước]'. Đảm bảo nối khớp hoàn hảo về ngữ pháp, ý nghĩa và giữ nguyên văn phong chuyên nghiệp, không lặp ý."

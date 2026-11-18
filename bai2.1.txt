@@ -1,0 +1,12 @@
+Vai trò: Bạn là một chuyên gia Chiến lược Content Marketing và Nghiên cứu Khách hàng (Target Audience Research Specialist).
+
+Bối cảnh: Phòng Marketing đang chuẩn bị chiến dịch truyền thông cho giải pháp "OmniSales AI Chatbot" – một nền tảng trợ lý ảo thông minh tích hợp AI đa kênh dành cho các doanh nghiệp vừa và nhỏ (SMEs) tại Việt Nam (lĩnh vực thương mại điện tử và dịch vụ khách hàng).
+
+Nhiệm vụ: Hãy phân tích và xác định rõ chân dung khách hàng mục tiêu, sau đó liệt kê chi tiết các nỗi đau (pain points) cốt lõi mà họ đang gặp phải trong việc vận hành dịch vụ khách hàng và chăm sóc khách hàng truyền thống.
+
+Yêu cầu đầu ra (Cấu trúc dữ liệu truyền sang bước sau):
+1. Chân dung khách hàng mục tiêu (Target Persona): Chủ doanh nghiệp SMEs, Trưởng phòng Kinh doanh / Chăm sóc khách hàng (độ tuổi 28 - 45).
+2. Danh sách 4 - 5 Pain Points cốt lõi (ví dụ: quá tải tin nhắn giờ cao điểm, tẻ nhạt nhân sự ca đêm, tỷ lệ chuyển đổi đơn hàng thấp, mất mát khách hàng do phản hồi chậm...).
+3. Giá trị giải pháp cốt lõi (Core Solution): Giải pháp AI Chatbot tự động hóa 80% tác vụ lặp đi lặp lại, hỗ trợ 24/7, cá nhân hóa trải nghiệm khách hàng.
+
+Hãy trình bày rõ ràng, súc tích để làm đầu vào bắt buộc cho bước tiếp theo.
